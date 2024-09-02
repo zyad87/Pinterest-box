@@ -103,7 +103,7 @@ nav a {
     bottom: 0;
     left: 0;
     width: 100%;
-    background-color: #F8E71C;
+    background-color: #fffd92;
     padding: 15px;
     text-align: center;
     z-index: 1000;
@@ -182,3 +182,6 @@ nav a {
     background: linear-gradient(to top, white, rgba(255, 255, 255, 0));
     z-index: 999;
 }
+
+
+
